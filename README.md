@@ -1,7 +1,7 @@
 # test
 
 > A Vue.js project
-
+Table of data with added filtering by Date rage, location.name and name of Orders
 ## Build Setup
 
 ``` bash
